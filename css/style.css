@@ -1,0 +1,232 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+/*************** navbar ***************/
+.navbar .navbar-brand {
+    font-family: 'PT Serif', serif;
+    font-weight: bold;
+    font-size: 45px;
+}
+.nav-item {
+    padding-left: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.nav-item .nav-link {
+    color: #fff;
+}
+.nav-item .nav-link:hover {
+    color: #175cff;
+}
+#title {
+    background-color: #0b163f;
+}
+
+
+
+
+
+
+/*************** head banner ***************/
+#head-banner {
+    background-color: #0b163f;
+    padding: 100px 0 100px 0;
+}
+.head-cont {
+    margin-top: 100px;
+}
+.head-h1 {
+    font-family: 'PT Serif', serif;
+    font-size: 45px;
+    color: #fff;
+}
+.head-p {
+    font-size: 20px;
+    color: #D8D9CF;
+    margin-top: 30px;
+}
+.head-button {
+    margin-top: 30px;
+}
+.title-image {
+    width: 100%;
+}
+
+/*************** offer ***************/
+#offer {
+    background-color: #EFEFEF;
+    padding: 50px 0 50px 0;
+}
+.offer-h5 {
+    color: #175cff;
+    font-size: 18px;
+    line-height: 21px;
+}
+.offer-h1 {
+    color: #071c4d;
+    font-size: 40px;
+    line-height: 48px;
+    font-family: 'PT Serif', serif;
+}
+.offer-p {
+    color: #52525c;
+    font-size: 16px;
+    line-height: 26px;
+}
+.icon-1 {
+    color: #fff;
+    font-size: 25px;
+    background-color: #175cff;
+    padding: 20px 20px;
+    border-radius: 15px;
+}
+.icon-2 {
+    color: #fff;
+    font-size: 25px;
+    background-color: #F16767;
+    padding: 20px 20px;
+    border-radius: 15px;
+}
+.icon-3 {
+    color: #fff;
+    font-size: 25px;
+    background-color: #0b163f;
+    padding: 20px 20px;
+    border-radius: 15px;
+}
+.card-text {
+    color: #52525c;
+}
+.card:hover {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition: all 0.5s;
+}
+.card {
+    margin-top: 40px;
+}
+
+
+
+
+
+/*************** business ***************/
+.business-h1 {
+    color: #071c4d;
+    font-size: 40px;
+    line-height: 48px;
+    font-family: 'PT Serif', serif;
+}
+.business-p {
+    color: #52525c;
+    font-size: 16px;
+    line-height: 26px;
+}
+.fa-circle-check {
+    color: #175cff;
+}
+.business-image {
+    width: 100%;
+}
+
+
+/*  */
+
+.card-link {
+    color: #071c4d;
+}
+.card-link:hover {
+    color: #175cff;
+}
+
+/*  */
+#Optimization {
+    background-color: #071c4d;
+    padding: 50px 0 50px 0;
+}
+.Optimization-h5 {
+    color: #FFDE00;
+    font-size: 18px;
+    line-height: 21px;
+}
+.Optimization-h1 {
+    color: #fff;
+    font-size: 40px;
+    line-height: 48px;
+    font-family: 'PT Serif', serif;
+}
+.Optimization-p {
+    color: #fff;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+
+
+/* blog */
+.blog-image:hover {
+    opacity: 0.5;
+}
+.blog-h4:hover {
+    color: #175cff;
+}
+
+
+
+
+/* Testimonials */
+.fa-star {
+    color: #FFB84C;
+}
+
+
+/* contact */
+.fa-contact {
+    font-size: 30px;
+    color: #175cff;
+    background-color: #a4b6e1;
+    padding: 20px 20px;
+    border-radius: 100px;
+}
+.contact-a:hover {
+    text-decoration: none;
+    color: #175cff;
+}
+
+
+
+
+
+
+
+
+
+/* footer */
+#footer {
+    background-color: #071c4d;
+    padding-top: 30px;
+}
+.footer-h1 {
+    color: #fff;
+    font-family: 'PT Serif', serif;
+}
+.footer-p {
+    color: #fff;
+    font-size: 16px;
+}
+.footer-h3 {
+    color: #fff;
+}
+.footer-icon {
+    background-color: #091d64;
+    padding: 20px 20px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 20px;
+}
+.footer-icon:hover {
+    background-color: #175cff;
+}
+hr {
+    /* color: #fff; */
+    border: 2px solid white;
+}
