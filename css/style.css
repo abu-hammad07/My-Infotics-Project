@@ -23,6 +23,28 @@ body {
 }
 
 
+/*************** arrow-btn ***************/
+html {
+    scroll-behavior: smooth;
+}
+.arrow-btn {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+.arrow-btn a {
+    height: 39px;
+    width: 37px;
+    text-align: center;
+    background-color: #1b1b1b;
+    display: block;
+    border-radius: 3px;
+}
+.arrow-btn a span {
+    color: #f2f2f2;
+    line-height: 39px;
+    font-size: 25px;
+}
 
 
 
@@ -129,7 +151,7 @@ body {
 }
 
 
-/*  */
+/****************  ****************/
 
 .card-link {
     color: #071c4d;
@@ -138,7 +160,7 @@ body {
     color: #175cff;
 }
 
-/*  */
+/****************  ****************/
 #Optimization {
     background-color: #071c4d;
     padding: 50px 0 50px 0;
@@ -162,7 +184,7 @@ body {
 
 
 
-/* blog */
+/**************** blog ****************/
 .blog-image:hover {
     opacity: 0.5;
 }
@@ -173,13 +195,13 @@ body {
 
 
 
-/* Testimonials */
+/**************** Testimonials ****************/
 .fa-star {
     color: #FFB84C;
 }
 
 
-/* contact */
+/**************** contact ****************/
 .fa-contact {
     font-size: 30px;
     color: #175cff;
@@ -200,7 +222,7 @@ body {
 
 
 
-/* footer */
+/**************** footer ****************/
 #footer {
     background-color: #071c4d;
     padding-top: 30px;
@@ -227,6 +249,5 @@ body {
     background-color: #175cff;
 }
 hr {
-    /* color: #fff; */
     border: 2px solid white;
 }
